@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cormac</h1>
-<h3 align="center">A passionate full stack developer from Ireland, living in Antwerp, Belgium.</h3>
+<h3 align="center">A product fanatic from Ireland, living in Antwerp, Belgium.</h3>
 
 - 🔭 I’m currently working on **learning about the web3 space**
 
