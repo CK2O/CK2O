@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/cormackwebdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cormackwebdev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/cormac-kerins/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cormac-kerins/" height="30" width="40" /></a>
-<a href=https://www.codewars.com/users/CormacK target="blank"><img align="center" src="https://user-images.githubusercontent.com/98518657/199917279-0974eae9-7215-4668-870f-38a049921f2a.png" alt="https://www.codewars.com/cormackwebdev/" height="30" width="40" /></a>  
+<a href=https://www.codewars.com/users/CormacK target="blank"><img align="center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="https://www.codewars.com/cormackwebdev/" height="30" width="40" /></a>  
 <a href="https://www.leetcode.com/https://leetcode.com/cormackwebdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/cormackwebdev/" height="30" width="40" /></a>
 </p>
 
